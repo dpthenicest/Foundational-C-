@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starter", "Challenge-project-branching-looping-CSharp\Starter.csproj", "{3048C586-A5B9-CF96-54EB-05C394B2798B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3048C586-A5B9-CF96-54EB-05C394B2798B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3048C586-A5B9-CF96-54EB-05C394B2798B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3048C586-A5B9-CF96-54EB-05C394B2798B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3048C586-A5B9-CF96-54EB-05C394B2798B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11F65A01-02F0-410C-9BAF-920B571AE9AD}
+	EndGlobalSection
+EndGlobal
