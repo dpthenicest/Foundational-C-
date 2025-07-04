@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\Foundational-C#\SwitchStatement\bin\Debug\net8.0\SwitchStatement.exe
+C:\Users\HP\Documents\Foundational-C#\SwitchStatement\bin\Debug\net8.0\SwitchStatement.deps.json
+C:\Users\HP\Documents\Foundational-C#\SwitchStatement\bin\Debug\net8.0\SwitchStatement.runtimeconfig.json
+C:\Users\HP\Documents\Foundational-C#\SwitchStatement\bin\Debug\net8.0\SwitchStatement.dll
+C:\Users\HP\Documents\Foundational-C#\SwitchStatement\bin\Debug\net8.0\SwitchStatement.pdb
+C:\Users\HP\Documents\Foundational-C#\SwitchStatement\obj\Debug\net8.0\SwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Foundational-C#\SwitchStatement\obj\Debug\net8.0\SwitchStatement.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Foundational-C#\SwitchStatement\obj\Debug\net8.0\SwitchStatement.AssemblyInfo.cs
+C:\Users\HP\Documents\Foundational-C#\SwitchStatement\obj\Debug\net8.0\SwitchStatement.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Foundational-C#\SwitchStatement\obj\Debug\net8.0\SwitchStatement.sourcelink.json
+C:\Users\HP\Documents\Foundational-C#\SwitchStatement\obj\Debug\net8.0\SwitchStatement.dll
+C:\Users\HP\Documents\Foundational-C#\SwitchStatement\obj\Debug\net8.0\refint\SwitchStatement.dll
+C:\Users\HP\Documents\Foundational-C#\SwitchStatement\obj\Debug\net8.0\SwitchStatement.pdb
+C:\Users\HP\Documents\Foundational-C#\SwitchStatement\obj\Debug\net8.0\SwitchStatement.genruntimeconfig.cache
+C:\Users\HP\Documents\Foundational-C#\SwitchStatement\obj\Debug\net8.0\ref\SwitchStatement.dll
