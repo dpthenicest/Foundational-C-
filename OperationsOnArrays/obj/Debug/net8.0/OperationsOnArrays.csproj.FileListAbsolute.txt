@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\Foundational-C#\OperationsOnArrays\bin\Debug\net8.0\OperationsOnArrays.exe
+C:\Users\HP\Documents\Foundational-C#\OperationsOnArrays\bin\Debug\net8.0\OperationsOnArrays.deps.json
+C:\Users\HP\Documents\Foundational-C#\OperationsOnArrays\bin\Debug\net8.0\OperationsOnArrays.runtimeconfig.json
+C:\Users\HP\Documents\Foundational-C#\OperationsOnArrays\bin\Debug\net8.0\OperationsOnArrays.dll
+C:\Users\HP\Documents\Foundational-C#\OperationsOnArrays\bin\Debug\net8.0\OperationsOnArrays.pdb
+C:\Users\HP\Documents\Foundational-C#\OperationsOnArrays\obj\Debug\net8.0\OperationsOnArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Foundational-C#\OperationsOnArrays\obj\Debug\net8.0\OperationsOnArrays.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Foundational-C#\OperationsOnArrays\obj\Debug\net8.0\OperationsOnArrays.AssemblyInfo.cs
+C:\Users\HP\Documents\Foundational-C#\OperationsOnArrays\obj\Debug\net8.0\OperationsOnArrays.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Foundational-C#\OperationsOnArrays\obj\Debug\net8.0\OperationsOnArrays.sourcelink.json
+C:\Users\HP\Documents\Foundational-C#\OperationsOnArrays\obj\Debug\net8.0\OperationsOnArrays.dll
+C:\Users\HP\Documents\Foundational-C#\OperationsOnArrays\obj\Debug\net8.0\refint\OperationsOnArrays.dll
+C:\Users\HP\Documents\Foundational-C#\OperationsOnArrays\obj\Debug\net8.0\OperationsOnArrays.pdb
+C:\Users\HP\Documents\Foundational-C#\OperationsOnArrays\obj\Debug\net8.0\OperationsOnArrays.genruntimeconfig.cache
+C:\Users\HP\Documents\Foundational-C#\OperationsOnArrays\obj\Debug\net8.0\ref\OperationsOnArrays.dll
