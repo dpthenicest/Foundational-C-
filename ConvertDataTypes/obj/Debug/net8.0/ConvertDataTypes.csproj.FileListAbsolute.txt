@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\Foundational-C#\ConvertDataTypes\obj\Debug\net8.0\ConvertDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Foundational-C#\ConvertDataTypes\obj\Debug\net8.0\ConvertDataTypes.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Foundational-C#\ConvertDataTypes\obj\Debug\net8.0\ConvertDataTypes.AssemblyInfo.cs
+C:\Users\HP\Documents\Foundational-C#\ConvertDataTypes\obj\Debug\net8.0\ConvertDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Foundational-C#\ConvertDataTypes\obj\Debug\net8.0\ConvertDataTypes.sourcelink.json
+C:\Users\HP\Documents\Foundational-C#\ConvertDataTypes\bin\Debug\net8.0\ConvertDataTypes.exe
+C:\Users\HP\Documents\Foundational-C#\ConvertDataTypes\bin\Debug\net8.0\ConvertDataTypes.deps.json
+C:\Users\HP\Documents\Foundational-C#\ConvertDataTypes\bin\Debug\net8.0\ConvertDataTypes.runtimeconfig.json
+C:\Users\HP\Documents\Foundational-C#\ConvertDataTypes\bin\Debug\net8.0\ConvertDataTypes.dll
+C:\Users\HP\Documents\Foundational-C#\ConvertDataTypes\bin\Debug\net8.0\ConvertDataTypes.pdb
+C:\Users\HP\Documents\Foundational-C#\ConvertDataTypes\obj\Debug\net8.0\ConvertDataTypes.dll
+C:\Users\HP\Documents\Foundational-C#\ConvertDataTypes\obj\Debug\net8.0\refint\ConvertDataTypes.dll
+C:\Users\HP\Documents\Foundational-C#\ConvertDataTypes\obj\Debug\net8.0\ConvertDataTypes.pdb
+C:\Users\HP\Documents\Foundational-C#\ConvertDataTypes\obj\Debug\net8.0\ConvertDataTypes.genruntimeconfig.cache
+C:\Users\HP\Documents\Foundational-C#\ConvertDataTypes\obj\Debug\net8.0\ref\ConvertDataTypes.dll
