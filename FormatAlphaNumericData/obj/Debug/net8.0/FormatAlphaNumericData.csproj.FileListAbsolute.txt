@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\Foundational-C#\FormatAlphaNumericData\bin\Debug\net8.0\FormatAlphaNumericData.exe
+C:\Users\HP\Documents\Foundational-C#\FormatAlphaNumericData\bin\Debug\net8.0\FormatAlphaNumericData.deps.json
+C:\Users\HP\Documents\Foundational-C#\FormatAlphaNumericData\bin\Debug\net8.0\FormatAlphaNumericData.runtimeconfig.json
+C:\Users\HP\Documents\Foundational-C#\FormatAlphaNumericData\bin\Debug\net8.0\FormatAlphaNumericData.dll
+C:\Users\HP\Documents\Foundational-C#\FormatAlphaNumericData\bin\Debug\net8.0\FormatAlphaNumericData.pdb
+C:\Users\HP\Documents\Foundational-C#\FormatAlphaNumericData\obj\Debug\net8.0\FormatAlphaNumericData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Foundational-C#\FormatAlphaNumericData\obj\Debug\net8.0\FormatAlphaNumericData.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Foundational-C#\FormatAlphaNumericData\obj\Debug\net8.0\FormatAlphaNumericData.AssemblyInfo.cs
+C:\Users\HP\Documents\Foundational-C#\FormatAlphaNumericData\obj\Debug\net8.0\FormatAlphaNumericData.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Foundational-C#\FormatAlphaNumericData\obj\Debug\net8.0\FormatAlphaNumericData.sourcelink.json
+C:\Users\HP\Documents\Foundational-C#\FormatAlphaNumericData\obj\Debug\net8.0\FormatAlphaNumericData.dll
+C:\Users\HP\Documents\Foundational-C#\FormatAlphaNumericData\obj\Debug\net8.0\refint\FormatAlphaNumericData.dll
+C:\Users\HP\Documents\Foundational-C#\FormatAlphaNumericData\obj\Debug\net8.0\FormatAlphaNumericData.pdb
+C:\Users\HP\Documents\Foundational-C#\FormatAlphaNumericData\obj\Debug\net8.0\FormatAlphaNumericData.genruntimeconfig.cache
+C:\Users\HP\Documents\Foundational-C#\FormatAlphaNumericData\obj\Debug\net8.0\ref\FormatAlphaNumericData.dll
