@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\Foundational-C#\modifystringcontents\bin\Debug\net8.0\ModifyStringCintents.exe
+C:\Users\HP\Documents\Foundational-C#\modifystringcontents\bin\Debug\net8.0\ModifyStringCintents.deps.json
+C:\Users\HP\Documents\Foundational-C#\modifystringcontents\bin\Debug\net8.0\ModifyStringCintents.runtimeconfig.json
+C:\Users\HP\Documents\Foundational-C#\modifystringcontents\bin\Debug\net8.0\ModifyStringCintents.dll
+C:\Users\HP\Documents\Foundational-C#\modifystringcontents\bin\Debug\net8.0\ModifyStringCintents.pdb
+C:\Users\HP\Documents\Foundational-C#\modifystringcontents\obj\Debug\net8.0\ModifyStringCintents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Foundational-C#\modifystringcontents\obj\Debug\net8.0\ModifyStringCintents.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Foundational-C#\modifystringcontents\obj\Debug\net8.0\ModifyStringCintents.AssemblyInfo.cs
+C:\Users\HP\Documents\Foundational-C#\modifystringcontents\obj\Debug\net8.0\ModifyStringCintents.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Foundational-C#\modifystringcontents\obj\Debug\net8.0\ModifyStringCintents.sourcelink.json
+C:\Users\HP\Documents\Foundational-C#\modifystringcontents\obj\Debug\net8.0\ModifyStringCintents.dll
+C:\Users\HP\Documents\Foundational-C#\modifystringcontents\obj\Debug\net8.0\refint\ModifyStringCintents.dll
+C:\Users\HP\Documents\Foundational-C#\modifystringcontents\obj\Debug\net8.0\ModifyStringCintents.pdb
+C:\Users\HP\Documents\Foundational-C#\modifystringcontents\obj\Debug\net8.0\ModifyStringCintents.genruntimeconfig.cache
+C:\Users\HP\Documents\Foundational-C#\modifystringcontents\obj\Debug\net8.0\ref\ModifyStringCintents.dll
