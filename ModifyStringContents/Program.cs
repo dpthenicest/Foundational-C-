@@ -51,3 +51,80 @@ while (true)
 
   message3 = message3.Substring(closingPosition3 + 1); // Move past the closing parenthesis
 }
+
+Console.WriteLine("");
+Console.WriteLine("Work with different types of symbol sets with IndexOfAny()");
+
+string message4 = "Hello World!";
+char[] charsToFind = { 'a', 'e', 'i' };
+
+int index = message4.IndexOfAny(charsToFind);
+
+Console.WriteLine($"Found '{message4[index]}' in '{message4}' at index: {index}.");
+
+Console.WriteLine("");
+Console.WriteLine("Work with different types of symbol sets with IndexOfAny() - II");
+
+string message5 = "Help (find) the {opening symbols}";
+Console.WriteLine($"Searching THIS Message: {message5}");
+char[] openSymbols = { '[', '{', '(' };
+int startPosition = 5;
+int openingPosition5 = message5.IndexOfAny(openSymbols);
+Console.WriteLine($"Found WITHOUT using startPosition: {message5.Substring(openingPosition5)}");
+
+openingPosition5 = message5.IndexOfAny(openSymbols, startPosition);
+Console.WriteLine($"Found WITH using startPosition {startPosition}:  {message5.Substring(openingPosition5)}");
+
+Console.WriteLine("");
+Console.WriteLine("Work with different types of symbol sets with IndexOfAny() - III");
+
+string message6 = "(What if) I have [different symbols] but every {open symbol} needs a [matching closing symbol]?";
+
+// The IndexOfAny() helper method requires a char array of characters. 
+// You want to look for:
+
+char[] openSymbols1 = { '[', '{', '(' };
+
+// You'll use a slightly different technique for iterating through 
+// the characters in the string. This time, use the closing 
+// position of the previous iteration as the starting index for the 
+//next open symbol. So, you need to initialize the closingPosition 
+// variable to zero:
+
+int closingPosition6 = 0;
+
+while (true)
+{
+    int openingPosition6 = message6.IndexOfAny(openSymbols1, closingPosition6);
+
+    if (openingPosition6 == -1) break;
+
+    string currentSymbol = message6.Substring(openingPosition6, 1);
+
+    // Now  find the matching closing symbol
+    char matchingSymbol = ' ';
+
+    switch (currentSymbol)
+    {
+        case "[":
+            matchingSymbol = ']';
+            break;
+        case "{":
+            matchingSymbol = '}';
+            break;
+        case "(":
+            matchingSymbol = ')';
+            break;
+    }
+
+    // To find the closingPosition, use an overload of the IndexOf method to specify 
+    // that the search for the matchingSymbol should start at the openingPosition in the string. 
+
+    openingPosition6 += 1;
+    closingPosition6 = message6.IndexOf(matchingSymbol, openingPosition6);
+
+    // Finally, use the techniques you've already learned to display the sub-string:
+
+    int length6 = closingPosition6 - openingPosition6;
+    Console.WriteLine(message6.Substring(openingPosition6, length6));
+}
