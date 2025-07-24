@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\Foundational-C#\\modifystringcontents\\ModifyStringCintents.csproj": {}
+    "C:\\Users\\HP\\Documents\\Foundational-C#\\ModifyStringContents\\ModifyStringCintents.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\Foundational-C#\\modifystringcontents\\ModifyStringCintents.csproj": {
+    "C:\\Users\\HP\\Documents\\Foundational-C#\\ModifyStringContents\\ModifyStringCintents.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\Foundational-C#\\modifystringcontents\\ModifyStringCintents.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\Foundational-C#\\ModifyStringContents\\ModifyStringCintents.csproj",
         "projectName": "ModifyStringCintents",
-        "projectPath": "C:\\Users\\HP\\Documents\\Foundational-C#\\modifystringcontents\\ModifyStringCintents.csproj",
+        "projectPath": "C:\\Users\\HP\\Documents\\Foundational-C#\\ModifyStringContents\\ModifyStringCintents.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\Foundational-C#\\modifystringcontents\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\Foundational-C#\\ModifyStringContents\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

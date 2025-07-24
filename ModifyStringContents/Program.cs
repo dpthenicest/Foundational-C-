@@ -128,3 +128,47 @@ while (true)
     int length6 = closingPosition6 - openingPosition6;
     Console.WriteLine(message6.Substring(openingPosition6, length6));
 }
+
+Console.WriteLine("");
+Console.WriteLine("Exercise - Use the Remove() and Replace() methods");
+
+string data = "12345John Smith          5000  3  ";
+string updatedData = data.Remove(5, 20);
+Console.WriteLine(updatedData);
+
+string message7 = "This--is--ex-amp-le--da-ta";
+message7 = message7.Replace("--", " ");
+message7 = message7.Replace("-", "");;
+Console.WriteLine(message7);
+
+Console.WriteLine("");
+Console.WriteLine("Exercise - Complete a challenge to extract, replace, and remove data from an input string");
+
+const string input = "<div><h2>Widgets &trade;</h2><span>5000</span></div>";
+
+string quantity = "";
+string output = "";
+
+// Your code here
+
+// const string openSpan = "<span>"; Alreaduy defined above
+// const string closeSpan = "</span>"; Alreaduy defined above
+
+int openSpanPosition = input.IndexOf(openSpan);
+int closeSpanPosition = input.IndexOf(closeSpan);
+int spanlength = openSpanPosition + 6;
+
+quantity = input.Substring(spanlength, closeSpanPosition - spanlength);
+
+const string openDiv = "<div>";
+const string closeDiv = "</div>";
+
+int openDivPosition = input.IndexOf(openDiv);
+
+output = input.Remove(openDivPosition, openDiv.Length);
+
+int closeDivPosition = output.IndexOf(closeDiv);
+output = output.Remove(closeDivPosition, closeDiv.Length);
+
+Console.WriteLine($"Quantity: {quantity}");
+Console.WriteLine($"Output: {output}");

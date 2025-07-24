@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ModifyStringCintents")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbebb02b2c1865e84eeb2216b96aae51c354013d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f818ee4b70fc45a73b3d3895967099efd7138806")]
 [assembly: System.Reflection.AssemblyProductAttribute("ModifyStringCintents")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ModifyStringCintents")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
