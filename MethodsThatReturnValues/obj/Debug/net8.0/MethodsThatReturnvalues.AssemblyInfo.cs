@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MethodsThatReturnvalues")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f95f83dc9d0fdbfcfed9b59f166555189eff8eee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f01fa3ab6f7b290c0cbad1efc02910e1dbf69d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("MethodsThatReturnvalues")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MethodsThatReturnvalues")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
