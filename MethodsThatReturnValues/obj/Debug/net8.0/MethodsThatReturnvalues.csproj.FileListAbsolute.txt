@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\Foundational-C#\MethodsThatReturnValues\bin\Debug\net8.0\MethodsThatReturnvalues.exe
+C:\Users\HP\Documents\Foundational-C#\MethodsThatReturnValues\bin\Debug\net8.0\MethodsThatReturnvalues.deps.json
+C:\Users\HP\Documents\Foundational-C#\MethodsThatReturnValues\bin\Debug\net8.0\MethodsThatReturnvalues.runtimeconfig.json
+C:\Users\HP\Documents\Foundational-C#\MethodsThatReturnValues\bin\Debug\net8.0\MethodsThatReturnvalues.dll
+C:\Users\HP\Documents\Foundational-C#\MethodsThatReturnValues\bin\Debug\net8.0\MethodsThatReturnvalues.pdb
+C:\Users\HP\Documents\Foundational-C#\MethodsThatReturnValues\obj\Debug\net8.0\MethodsThatReturnvalues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Foundational-C#\MethodsThatReturnValues\obj\Debug\net8.0\MethodsThatReturnvalues.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Foundational-C#\MethodsThatReturnValues\obj\Debug\net8.0\MethodsThatReturnvalues.AssemblyInfo.cs
+C:\Users\HP\Documents\Foundational-C#\MethodsThatReturnValues\obj\Debug\net8.0\MethodsThatReturnvalues.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Foundational-C#\MethodsThatReturnValues\obj\Debug\net8.0\MethodsThatReturnvalues.sourcelink.json
+C:\Users\HP\Documents\Foundational-C#\MethodsThatReturnValues\obj\Debug\net8.0\MethodsThatReturnvalues.dll
+C:\Users\HP\Documents\Foundational-C#\MethodsThatReturnValues\obj\Debug\net8.0\refint\MethodsThatReturnvalues.dll
+C:\Users\HP\Documents\Foundational-C#\MethodsThatReturnValues\obj\Debug\net8.0\MethodsThatReturnvalues.pdb
+C:\Users\HP\Documents\Foundational-C#\MethodsThatReturnValues\obj\Debug\net8.0\MethodsThatReturnvalues.genruntimeconfig.cache
+C:\Users\HP\Documents\Foundational-C#\MethodsThatReturnValues\obj\Debug\net8.0\ref\MethodsThatReturnvalues.dll
