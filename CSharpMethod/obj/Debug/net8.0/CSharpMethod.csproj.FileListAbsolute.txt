@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\Foundational-C#\CSharpMethod\bin\Debug\net8.0\CSharpMethod.exe
+C:\Users\HP\Documents\Foundational-C#\CSharpMethod\bin\Debug\net8.0\CSharpMethod.deps.json
+C:\Users\HP\Documents\Foundational-C#\CSharpMethod\bin\Debug\net8.0\CSharpMethod.runtimeconfig.json
+C:\Users\HP\Documents\Foundational-C#\CSharpMethod\bin\Debug\net8.0\CSharpMethod.dll
+C:\Users\HP\Documents\Foundational-C#\CSharpMethod\bin\Debug\net8.0\CSharpMethod.pdb
+C:\Users\HP\Documents\Foundational-C#\CSharpMethod\obj\Debug\net8.0\CSharpMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Foundational-C#\CSharpMethod\obj\Debug\net8.0\CSharpMethod.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Foundational-C#\CSharpMethod\obj\Debug\net8.0\CSharpMethod.AssemblyInfo.cs
+C:\Users\HP\Documents\Foundational-C#\CSharpMethod\obj\Debug\net8.0\CSharpMethod.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Foundational-C#\CSharpMethod\obj\Debug\net8.0\CSharpMethod.sourcelink.json
+C:\Users\HP\Documents\Foundational-C#\CSharpMethod\obj\Debug\net8.0\CSharpMethod.dll
+C:\Users\HP\Documents\Foundational-C#\CSharpMethod\obj\Debug\net8.0\refint\CSharpMethod.dll
+C:\Users\HP\Documents\Foundational-C#\CSharpMethod\obj\Debug\net8.0\CSharpMethod.pdb
+C:\Users\HP\Documents\Foundational-C#\CSharpMethod\obj\Debug\net8.0\CSharpMethod.genruntimeconfig.cache
+C:\Users\HP\Documents\Foundational-C#\CSharpMethod\obj\Debug\net8.0\ref\CSharpMethod.dll

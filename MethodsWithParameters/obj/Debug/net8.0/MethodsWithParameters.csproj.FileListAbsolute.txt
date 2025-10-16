@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\Foundational-C#\MethodsWithParameters\bin\Debug\net8.0\MethodsWithParameters.exe
+C:\Users\HP\Documents\Foundational-C#\MethodsWithParameters\bin\Debug\net8.0\MethodsWithParameters.deps.json
+C:\Users\HP\Documents\Foundational-C#\MethodsWithParameters\bin\Debug\net8.0\MethodsWithParameters.runtimeconfig.json
+C:\Users\HP\Documents\Foundational-C#\MethodsWithParameters\bin\Debug\net8.0\MethodsWithParameters.dll
+C:\Users\HP\Documents\Foundational-C#\MethodsWithParameters\bin\Debug\net8.0\MethodsWithParameters.pdb
+C:\Users\HP\Documents\Foundational-C#\MethodsWithParameters\obj\Debug\net8.0\MethodsWithParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Foundational-C#\MethodsWithParameters\obj\Debug\net8.0\MethodsWithParameters.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Foundational-C#\MethodsWithParameters\obj\Debug\net8.0\MethodsWithParameters.AssemblyInfo.cs
+C:\Users\HP\Documents\Foundational-C#\MethodsWithParameters\obj\Debug\net8.0\MethodsWithParameters.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Foundational-C#\MethodsWithParameters\obj\Debug\net8.0\MethodsWithParameters.sourcelink.json
+C:\Users\HP\Documents\Foundational-C#\MethodsWithParameters\obj\Debug\net8.0\MethodsWithParameters.dll
+C:\Users\HP\Documents\Foundational-C#\MethodsWithParameters\obj\Debug\net8.0\refint\MethodsWithParameters.dll
+C:\Users\HP\Documents\Foundational-C#\MethodsWithParameters\obj\Debug\net8.0\MethodsWithParameters.pdb
+C:\Users\HP\Documents\Foundational-C#\MethodsWithParameters\obj\Debug\net8.0\MethodsWithParameters.genruntimeconfig.cache
+C:\Users\HP\Documents\Foundational-C#\MethodsWithParameters\obj\Debug\net8.0\ref\MethodsWithParameters.dll
