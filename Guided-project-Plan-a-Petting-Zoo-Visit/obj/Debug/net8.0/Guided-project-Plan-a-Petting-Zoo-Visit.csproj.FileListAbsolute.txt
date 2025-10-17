@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\Foundational-C#\Guided-project-Plan-a-Petting-Zoo-Visit\bin\Debug\net8.0\Guided-project-Plan-a-Petting-Zoo-Visit.exe
+C:\Users\HP\Documents\Foundational-C#\Guided-project-Plan-a-Petting-Zoo-Visit\bin\Debug\net8.0\Guided-project-Plan-a-Petting-Zoo-Visit.deps.json
+C:\Users\HP\Documents\Foundational-C#\Guided-project-Plan-a-Petting-Zoo-Visit\bin\Debug\net8.0\Guided-project-Plan-a-Petting-Zoo-Visit.runtimeconfig.json
+C:\Users\HP\Documents\Foundational-C#\Guided-project-Plan-a-Petting-Zoo-Visit\bin\Debug\net8.0\Guided-project-Plan-a-Petting-Zoo-Visit.dll
+C:\Users\HP\Documents\Foundational-C#\Guided-project-Plan-a-Petting-Zoo-Visit\bin\Debug\net8.0\Guided-project-Plan-a-Petting-Zoo-Visit.pdb
+C:\Users\HP\Documents\Foundational-C#\Guided-project-Plan-a-Petting-Zoo-Visit\obj\Debug\net8.0\Guided-project-Plan-a-Petting-Zoo-Visit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Foundational-C#\Guided-project-Plan-a-Petting-Zoo-Visit\obj\Debug\net8.0\Guided-project-Plan-a-Petting-Zoo-Visit.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Foundational-C#\Guided-project-Plan-a-Petting-Zoo-Visit\obj\Debug\net8.0\Guided-project-Plan-a-Petting-Zoo-Visit.AssemblyInfo.cs
+C:\Users\HP\Documents\Foundational-C#\Guided-project-Plan-a-Petting-Zoo-Visit\obj\Debug\net8.0\Guided-project-Plan-a-Petting-Zoo-Visit.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Foundational-C#\Guided-project-Plan-a-Petting-Zoo-Visit\obj\Debug\net8.0\Guided-project-Plan-a-Petting-Zoo-Visit.sourcelink.json
+C:\Users\HP\Documents\Foundational-C#\Guided-project-Plan-a-Petting-Zoo-Visit\obj\Debug\net8.0\Guided-project-Plan-a-Petting-Zoo-Visit.dll
+C:\Users\HP\Documents\Foundational-C#\Guided-project-Plan-a-Petting-Zoo-Visit\obj\Debug\net8.0\refint\Guided-project-Plan-a-Petting-Zoo-Visit.dll
+C:\Users\HP\Documents\Foundational-C#\Guided-project-Plan-a-Petting-Zoo-Visit\obj\Debug\net8.0\Guided-project-Plan-a-Petting-Zoo-Visit.pdb
+C:\Users\HP\Documents\Foundational-C#\Guided-project-Plan-a-Petting-Zoo-Visit\obj\Debug\net8.0\Guided-project-Plan-a-Petting-Zoo-Visit.genruntimeconfig.cache
+C:\Users\HP\Documents\Foundational-C#\Guided-project-Plan-a-Petting-Zoo-Visit\obj\Debug\net8.0\ref\Guided-project-Plan-a-Petting-Zoo-Visit.dll
