@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\Foundational-C#\PrinciplesOfCodeDebuggingAndExceptionHandling\bin\Debug\net8.0\PrinciplesOfCodeDebuggingAndExceptionHandling.exe
+C:\Users\HP\Documents\Foundational-C#\PrinciplesOfCodeDebuggingAndExceptionHandling\bin\Debug\net8.0\PrinciplesOfCodeDebuggingAndExceptionHandling.deps.json
+C:\Users\HP\Documents\Foundational-C#\PrinciplesOfCodeDebuggingAndExceptionHandling\bin\Debug\net8.0\PrinciplesOfCodeDebuggingAndExceptionHandling.runtimeconfig.json
+C:\Users\HP\Documents\Foundational-C#\PrinciplesOfCodeDebuggingAndExceptionHandling\bin\Debug\net8.0\PrinciplesOfCodeDebuggingAndExceptionHandling.dll
+C:\Users\HP\Documents\Foundational-C#\PrinciplesOfCodeDebuggingAndExceptionHandling\bin\Debug\net8.0\PrinciplesOfCodeDebuggingAndExceptionHandling.pdb
+C:\Users\HP\Documents\Foundational-C#\PrinciplesOfCodeDebuggingAndExceptionHandling\obj\Debug\net8.0\PrinciplesOfCodeDebuggingAndExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Foundational-C#\PrinciplesOfCodeDebuggingAndExceptionHandling\obj\Debug\net8.0\PrinciplesOfCodeDebuggingAndExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Foundational-C#\PrinciplesOfCodeDebuggingAndExceptionHandling\obj\Debug\net8.0\PrinciplesOfCodeDebuggingAndExceptionHandling.AssemblyInfo.cs
+C:\Users\HP\Documents\Foundational-C#\PrinciplesOfCodeDebuggingAndExceptionHandling\obj\Debug\net8.0\PrinciplesOfCodeDebuggingAndExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Foundational-C#\PrinciplesOfCodeDebuggingAndExceptionHandling\obj\Debug\net8.0\PrinciplesOfCodeDebuggingAndExceptionHandling.sourcelink.json
+C:\Users\HP\Documents\Foundational-C#\PrinciplesOfCodeDebuggingAndExceptionHandling\obj\Debug\net8.0\PrinciplesOfCodeDebuggingAndExceptionHandling.dll
+C:\Users\HP\Documents\Foundational-C#\PrinciplesOfCodeDebuggingAndExceptionHandling\obj\Debug\net8.0\refint\PrinciplesOfCodeDebuggingAndExceptionHandling.dll
+C:\Users\HP\Documents\Foundational-C#\PrinciplesOfCodeDebuggingAndExceptionHandling\obj\Debug\net8.0\PrinciplesOfCodeDebuggingAndExceptionHandling.pdb
+C:\Users\HP\Documents\Foundational-C#\PrinciplesOfCodeDebuggingAndExceptionHandling\obj\Debug\net8.0\PrinciplesOfCodeDebuggingAndExceptionHandling.genruntimeconfig.cache
+C:\Users\HP\Documents\Foundational-C#\PrinciplesOfCodeDebuggingAndExceptionHandling\obj\Debug\net8.0\ref\PrinciplesOfCodeDebuggingAndExceptionHandling.dll
