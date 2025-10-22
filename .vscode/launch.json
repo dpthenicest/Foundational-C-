@@ -5,13 +5,24 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": ".NET Core Launch (console)",
+      "name": ".NET Core Launch - PrinciplesOfCodeDebuggingAndExceptionHandling",
       "type": "coreclr",
       "request": "launch",
       "preLaunchTask": "build",
       "program": "${workspaceFolder}/PrinciplesOfCodeDebuggingAndExceptionHandling/bin/Debug/net8.0/PrinciplesOfCodeDebuggingAndExceptionHandling.dll",
       "args": [],
       "cwd": "${workspaceFolder}/PrinciplesOfCodeDebuggingAndExceptionHandling",
+      "stopAtEntry": false,
+      "console": "integratedTerminal"
+    },
+    {
+      "name": ".NET Core Launch - Exception Handling",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/ExceptionHandling/bin/Debug/net8.0/ExceptionHandling.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/ExceptionHandling",
       "stopAtEntry": false,
       "console": "integratedTerminal"
     }
