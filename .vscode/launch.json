@@ -36,6 +36,28 @@
       "cwd": "${workspaceFolder}/ThrowExceptions",
       "stopAtEntry": false,
       "console": "integratedTerminal"
+    },
+    {
+      "name": ".NET Core Launch - Guided Project - Debug And Handle Exceptions",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/Guided-project-debugging-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/Guided-project-debugging-CSharp-main",
+      "stopAtEntry": false,
+      "console": "integratedTerminal"
+    },
+     {
+      "name": ".NET Core Launch - Guided Project - Debug And Handle Exceptions - Final",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/Guided-project-debugging-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/Guided-project-debugging-CSharp-main",
+      "stopAtEntry": false,
+      "console": "integratedTerminal"
     }
   ]
 }
