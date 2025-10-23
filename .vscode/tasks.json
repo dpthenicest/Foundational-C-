@@ -17,6 +17,23 @@
         "isDefault": true
       },
       "detail": "Build the project using dotnet build"
+    },
+    {
+      "label": "build",
+      "command": "dotnet",
+      "type": "process",
+      "args": [
+        "build",
+        "${workspaceFolder}/ThrowExceptions/ThrowExceptions.csproj",
+        "/property:GenerateFullPaths=true",
+        "/consoleloggerparameters:NoSummary"
+      ],
+      "problemMatcher": "$msCompile",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "detail": "Build the project using dotnet build"
     }
   ]
 }

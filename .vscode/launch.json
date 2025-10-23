@@ -25,6 +25,17 @@
       "cwd": "${workspaceFolder}/ExceptionHandling",
       "stopAtEntry": false,
       "console": "integratedTerminal"
+    },
+    {
+      "name": ".NET Core Launch - Throw Exceptions",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/ThrowExceptions/bin/Debug/net8.0/ThrowExceptions.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/ThrowExceptions",
+      "stopAtEntry": false,
+      "console": "integratedTerminal"
     }
   ]
 }

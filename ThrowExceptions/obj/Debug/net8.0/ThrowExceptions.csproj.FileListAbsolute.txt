@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\Foundational-C#\ThrowExceptions\obj\Debug\net8.0\ThrowExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Foundational-C#\ThrowExceptions\obj\Debug\net8.0\ThrowExceptions.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Foundational-C#\ThrowExceptions\obj\Debug\net8.0\ThrowExceptions.AssemblyInfo.cs
+C:\Users\HP\Documents\Foundational-C#\ThrowExceptions\obj\Debug\net8.0\ThrowExceptions.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Foundational-C#\ThrowExceptions\obj\Debug\net8.0\ThrowExceptions.sourcelink.json
+C:\Users\HP\Documents\Foundational-C#\ThrowExceptions\bin\Debug\net8.0\ThrowExceptions.exe
+C:\Users\HP\Documents\Foundational-C#\ThrowExceptions\bin\Debug\net8.0\ThrowExceptions.deps.json
+C:\Users\HP\Documents\Foundational-C#\ThrowExceptions\bin\Debug\net8.0\ThrowExceptions.runtimeconfig.json
+C:\Users\HP\Documents\Foundational-C#\ThrowExceptions\bin\Debug\net8.0\ThrowExceptions.dll
+C:\Users\HP\Documents\Foundational-C#\ThrowExceptions\bin\Debug\net8.0\ThrowExceptions.pdb
+C:\Users\HP\Documents\Foundational-C#\ThrowExceptions\obj\Debug\net8.0\ThrowExceptions.dll
+C:\Users\HP\Documents\Foundational-C#\ThrowExceptions\obj\Debug\net8.0\refint\ThrowExceptions.dll
+C:\Users\HP\Documents\Foundational-C#\ThrowExceptions\obj\Debug\net8.0\ThrowExceptions.pdb
+C:\Users\HP\Documents\Foundational-C#\ThrowExceptions\obj\Debug\net8.0\ThrowExceptions.genruntimeconfig.cache
+C:\Users\HP\Documents\Foundational-C#\ThrowExceptions\obj\Debug\net8.0\ref\ThrowExceptions.dll
