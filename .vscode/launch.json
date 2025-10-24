@@ -58,6 +58,28 @@
       "cwd": "${workspaceFolder}/Guided-project-debugging-CSharp-main",
       "stopAtEntry": false,
       "console": "integratedTerminal"
+    },
+     {
+      "name": ".NET Core Launch - Challenge Project - Debug And Handle Exceptions - Final",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/Challenge-project-debugging-CSharp-main",
+      "stopAtEntry": false,
+      "console": "integratedTerminal"
+    },
+     {
+      "name": ".NET Core Launch - Challenge Project - Debug And Handle Exceptions - Starter",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/Challenge-project-debugging-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/Challenge-project-debugging-CSharp-main",
+      "stopAtEntry": false,
+      "console": "integratedTerminal"
     }
   ]
 }
