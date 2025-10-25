@@ -80,6 +80,17 @@
       "cwd": "${workspaceFolder}/Challenge-project-debugging-CSharp-main",
       "stopAtEntry": false,
       "console": "integratedTerminal"
+    },
+     {
+      "name": ".NET Core Launch - Challenge Project - C# Methods - Starter",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/Challenge-project-Create-methods-in-CSharp-main/Starter/bin/Debug/net6.0/Starter.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/Challenge-project-Create-methods-in-CSharp-main",
+      "stopAtEntry": false,
+      "console": "integratedTerminal"
     }
   ]
 }

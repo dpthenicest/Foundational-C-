@@ -102,6 +102,23 @@
         "isDefault": true
       },
       "detail": "Build the project using dotnet build"
+    },
+     {
+      "label": "build",
+      "command": "dotnet",
+      "type": "process",
+      "args": [
+        "build",
+        "${workspaceFolder}/Challenge-project-Create-methods-in-CSharp-main/Starter/Starter.csproj",
+        "/property:GenerateFullPaths=true",
+        "/consoleloggerparameters:NoSummary"
+      ],
+      "problemMatcher": "$msCompile",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "detail": "Build the project using dotnet build"
     }
   ]
 }

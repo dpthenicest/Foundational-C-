@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Security;
 
 Random random = new Random();
 Console.CursorVisible = false;
@@ -27,11 +28,12 @@ int food = 0;
 InitializeGame();
 while (!shouldExit)
 {
-    Move();
+    if (isPlayerHappy())
+        Move(true, 3);
+    else Move(true);
+        
     if (TerminalResized())
-    {
-
-    }
+        EndGame();
 }
 
 // Returns true if the Terminal was resized 
@@ -71,12 +73,26 @@ void FreezePlayer()
 }
 
 // Reads directional input from the Console and moves the player
-void Move()
+void Move(bool allowNonDirectional = false, int speed = 1)
 {
     int lastX = playerX;
     int lastY = playerY;
 
-    switch (Console.ReadKey(true).Key)
+    ConsoleKey key = Console.ReadKey(true).Key;
+
+    if (allowNonDirectional)
+    {
+        if (key != ConsoleKey.LeftArrow &&
+            key != ConsoleKey.RightArrow &&
+            key != ConsoleKey.UpArrow &&
+            key != ConsoleKey.DownArrow)
+        {
+            shouldExit = true;
+            return;
+        }
+    }
+
+    switch (key)
     {
         case ConsoleKey.UpArrow:
             playerY--;
@@ -85,10 +101,10 @@ void Move()
             playerY++;
             break;
         case ConsoleKey.LeftArrow:
-            playerX--;
+            playerX -= speed;
             break;
         case ConsoleKey.RightArrow:
-            playerX++;
+            playerX += speed;
             break;
         case ConsoleKey.Escape:
             shouldExit = true;
@@ -100,6 +116,14 @@ void Move()
     for (int i = 0; i < player.Length; i++)
     {
         Console.Write(" ");
+    }
+
+    if (hasConsumedFood())
+    {
+        ChangePlayer();
+        if (isPlayerDead())
+            FreezePlayer();
+        ShowFood();
     }
 
     // Keep player position within the bounds of the Terminal window
@@ -118,4 +142,40 @@ void InitializeGame()
     ShowFood();
     Console.SetCursorPosition(0, 0);
     Console.Write(player);
+}
+
+void EndGame()
+{
+    Console.Clear();
+    shouldExit = true;
+    Console.WriteLine("Console was resized. Program exiting.");
+}
+
+bool hasConsumedFood()
+{
+  // Check whether the player's horizontal range overlaps the food's horizontal range on the same row.
+  int playerStart = playerX;
+  int playerEnd = playerX + player.Length - 1;
+  int foodStart = foodX;
+  int foodEnd = foodX + foods[food].Length - 1;
+
+  if (playerY == foodY && !(playerEnd < foodStart || playerStart > foodEnd))
+  {
+      return true;
+  }
+  return false;
+}
+
+bool isPlayerDead()
+{
+    if (player == states[2])
+        return true;
+    return false;
+}
+
+bool isPlayerHappy()
+{
+    if (player == states[1])
+        return true;
+    return false;
 }
