@@ -16,5 +16,5 @@
 <img src="./images/Certificate.png" alt="FreeCodeCamp Foundational C# Certificate with Microsoft">
 
 ## Exam Score:
-<img src="./images/ExamRecord.png" alt="FreeCodeCamp Foundational C# Certificate with Microsoft">
+<img src="./images/ExamRecord.png" alt="FreeCodeCamp Foundational C# Certificate with Microsoft Exam Result">
 
