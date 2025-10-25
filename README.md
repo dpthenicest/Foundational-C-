@@ -7,3 +7,8 @@
 ## Run a C# program
 
 -  dotnet run
+
+## Build a C# program
+-  dotnet build
+
+## My certificate:
