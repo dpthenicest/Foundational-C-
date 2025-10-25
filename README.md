@@ -12,3 +12,9 @@
 -  dotnet build
 
 ## My certificate:
+
+<img src="./images/Certificate.png" alt="FreeCodeCamp Foundational C# Certificate with Microsoft">
+
+## Exam Score:
+<img src="./images/ExamRecord.png" alt="FreeCodeCamp Foundational C# Certificate with Microsoft">
+
